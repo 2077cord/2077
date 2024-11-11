@@ -59,11 +59,5 @@ After copying the CSS file to the directory, enable the theme in Discord by foll
 
 Feel free to DM me on Instagram: [https://www.instagram.com/allvexnation](https://www.instagram.com/allvexnation)
 
-## 2077
-
-1. Download the 2077 theme file from [here](https://2077cord.github.io/2077/2077.css).
-2. Locate your 2077 themes folder by clicking the "Open Themes Folder" button in your themes tab.
-3. Enable the theme.
-
 ## Follow me on
 [Youtube](https://www.youtube.com/@allvexnation1)
