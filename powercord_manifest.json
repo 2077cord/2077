@@ -1,0 +1,8 @@
+{
+    "name": "2077",
+    "description": "Inspired by a 2077 VS Code Theme.",
+    "version": "1.0.0",
+    "author": "Allvexnation",
+    "license": "MIT",
+    "theme": "./2077.css"
+}
