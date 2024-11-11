@@ -1,5 +1,5 @@
 # 2077
-This theme is inspired by [2077] from Visual Studio Code Extension
+This theme is inspired by 2077 from Visual Studio Code Extension
 
 ## Screenshots
 
@@ -21,3 +21,5 @@ This theme is inspired by [2077] from Visual Studio Code Extension
 2. Locate your 2077 themes folder by clicking the "Open Themes Folder" button in your themes tab.
 3. Enable the theme.
 
+## Follow me on
+[Youtube](https://www.youtube.com/@allvexnation1)
