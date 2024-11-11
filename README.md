@@ -11,7 +11,7 @@ This theme is inspired by [2077] from Visual Studio Code Extension
 
 
 ```css
-@import url(https://2077cord.github.io/2077/2077.css);
+@import url('https://2077cord.github.io/2077/2077.css');
 
 ```
 
