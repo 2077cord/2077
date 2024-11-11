@@ -1,12 +1,12 @@
 # 2077 🌆
 This theme is inspired by 2077 from Visual Studio Code Extension
 
-## Screenshots
+## Screenshots 📷
 
 ![Theme in use](/images/2077snapshot.png)
 
 
-## Info
+## Info 📃
 
 
 
@@ -15,7 +15,7 @@ This theme is inspired by 2077 from Visual Studio Code Extension
 
 ```
 
-## Tutorial how to set up 
+## Tutorial how to set up 📖
 
 **Requirements:**
 
@@ -40,7 +40,7 @@ After downloading the theme’s CSS file, follow these steps to add it:
    C:\Users\(your pc name)\AppData\Roaming\Vencord\themes
    ```
 
-**Note:**
+**Note:** 📑
 
 Make sure Vencord and Discord are already installed on your Windows device before proceeding.
 
@@ -59,5 +59,6 @@ After copying the CSS file to the directory, enable the theme in Discord by foll
 
 Feel free to DM me on Instagram: [https://www.instagram.com/allvexnation](https://www.instagram.com/allvexnation)
 
-## Follow me on
+## Follow me on 🔗
+
 [Youtube](https://www.youtube.com/@allvexnation1)
