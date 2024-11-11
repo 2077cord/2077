@@ -1,6 +1,6 @@
 # 2077 🌆
-This theme is inspired by 2077 from Visual Studio Code Extension
-
+This theme is inspired by 2077 from Visual Studio Code Extension 🌃
+ 
 ## Screenshots 📷
 
 ![Theme in use](/images/2077snapshot.png)
