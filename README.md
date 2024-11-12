@@ -5,7 +5,7 @@ This theme is inspired by 2077 from Visual Studio Code Extension 🌃
 
 ![Theme in use](/images/2077 Theme Thumbnail.jpg)
 ![Theme in use](/images/2077snapshot.png)
-![Theme in use](/images/2077Screenshot.png)
+![Themse in use](/images/2077Screenshot.png)
 ![Theme in use](/images/2077Screenshott.png)
 ![Theme in use](/images/2077Screenshottt.png)
 
