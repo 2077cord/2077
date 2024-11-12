@@ -3,7 +3,7 @@ This theme is inspired by 2077 from Visual Studio Code Extension 🌃
  
 ## Screenshots 📷
 
-(https://github.com/2077cord/2077/blob/main/images/2027%20Theme%20Thumbnail.jpg)
+![Thumbnail](https://github.com/2077cord/2077/blob/main/images/2027%20Theme%20Thumbnail.jpg)
 ![More Stuff](https://github.com/2077cord/2077/blob/main/images/2027%20Screenshott.png)
 ![Stop](https://github.com/2077cord/2077/blob/main/images/2027%20Screenshot.png)
 ![Stoppls](https://github.com/2077cord/2077/blob/main/images/2027%20Screenshottt.png)
