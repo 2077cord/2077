@@ -3,11 +3,11 @@ This theme is inspired by 2077 from Visual Studio Code Extension 🌃
  
 ## Screenshots 📷
 
-(/images/2077 Theme Thumbnail.jpg)
-(/images/2077snapshot.png)
-(/images/2077Screenshot.png)
-(/images/2077Screenshott.png)
-(/images/2077Screenshottt.png)
+![Theme in use](/images/2077 Theme Thumbnail.jpg)
+![Theme in use](/images/2077snapshot.png)
+![Theme in use](/images/2077Screenshot.png)
+![Theme in use](/images/2077Screenshott.png)
+![Theme in use](/images/2077Screenshottt.png)
 
 
 ## Info 📃
