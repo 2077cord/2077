@@ -1,7 +1,7 @@
 # ╭──・🌆 IMPORTANT
 This theme is inspired by 2077 from Visual Studio Code Extension 🌃
  
-## Screenshots 📷
+## ╭──・🌆 SCREENSHOTS
 
 ![Thumbnail](https://github.com/2077cord/2077/blob/main/images/2027%20Theme%20Thumbnail.jpg)
 ![Screenshots](https://github.com/2077cord/2077/blob/main/images/2027%20Screenshott.png)
@@ -10,7 +10,7 @@ This theme is inspired by 2077 from Visual Studio Code Extension 🌃
 ![Screenshots](https://github.com/2077cord/2077/blob/main/images/2077snapshot.png)
 
 
-## Info 📃
+## ╭──・🌆 CSS FILE
 
 
 
@@ -19,7 +19,7 @@ This theme is inspired by 2077 from Visual Studio Code Extension 🌃
 
 ```
 
-## Tutorial how to set up 📖
+## ╭──・🌆 TUTORIAL 
 
 **Requirements:**
 
@@ -63,6 +63,6 @@ After copying the CSS file to the directory, enable the theme in Discord by foll
 
 Feel free to DM me on Instagram: [https://www.instagram.com/allvexnation](https://www.instagram.com/allvexnation)
 
-## Follow me on 🔗
+## ╭──・🌆 FOLLOW ME
 
 [Youtube](https://www.youtube.com/@allvexnation1)
