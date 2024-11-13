@@ -1,4 +1,4 @@
-# 2077 🌆
+# ╭──・🌆 IMPORTANT
 This theme is inspired by 2077 from Visual Studio Code Extension 🌃
  
 ## Screenshots 📷
